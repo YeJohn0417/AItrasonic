@@ -1,0 +1,77 @@
+Layer 0:
+data_min: 0.0
+data_max: 90713.0
+raw_scale: 0.0014000198428009217
+decomposed_scale: 1.0 * 2^-10.0
+final_scale: 0.0009765625
+------------------------------
+Layer 1:
+data_min: 0.0
+data_max: 90713.0
+raw_scale: 0.0014000198428009217
+decomposed_scale: 1.0 * 2^-10.0
+final_scale: 0.0009765625
+------------------------------
+Layer 2:
+data_min: 0.0
+data_max: 32545.0
+raw_scale: 0.0039022891381164542
+decomposed_scale: 1.0 * 2^-9.0
+final_scale: 0.001953125
+------------------------------
+Layer 3:
+data_min: 0.0
+data_max: 32545.0
+raw_scale: 0.0039022891381164542
+decomposed_scale: 1.0 * 2^-9.0
+final_scale: 0.001953125
+------------------------------
+Layer 4:
+data_min: 0.0
+data_max: 36836.0
+raw_scale: 0.003447714192637637
+decomposed_scale: 1.0 * 2^-9.0
+final_scale: 0.001953125
+------------------------------
+Layer 5:
+data_min: 0.0
+data_max: 36836.0
+raw_scale: 0.003447714192637637
+decomposed_scale: 1.0 * 2^-9.0
+final_scale: 0.001953125
+------------------------------
+Layer 6:
+data_min: 0.0
+data_max: 51219.0
+raw_scale: 0.0024795486050098597
+decomposed_scale: 1.0 * 2^-9.0
+final_scale: 0.001953125
+------------------------------
+Layer 7:
+data_min: 0.0
+data_max: 51219.0
+raw_scale: 0.0024795486050098597
+decomposed_scale: 1.0 * 2^-9.0
+final_scale: 0.001953125
+------------------------------
+Layer 8:
+data_min: 0.0
+data_max: 80.0
+raw_scale: 1.5875
+decomposed_scale: 1.0 * 2^0.0
+final_scale: 1.0
+------------------------------
+Layer 9:
+data_min: 0.0
+data_max: 16147.0
+raw_scale: 0.007865238124729052
+decomposed_scale: 1.0 * 2^-7.0
+final_scale: 0.0078125
+------------------------------
+Layer 10:
+data_min: 0.0
+data_max: 15263.0
+raw_scale: 0.008320775732162746
+decomposed_scale: 1.0 * 2^-7.0
+final_scale: 0.0078125
+------------------------------
